@@ -9,7 +9,7 @@ const sendEmail = async (to, messageContent)  =>{
             secure: false,
             auth:{
                 user: "" , //(Your gmail) ex = user: "yourgmail@gmail.com"
-                pass: "" // (The app password of gmail) ex = pass: "yourapppass"
+                pass: "" // (The app password of gmail) ex = pass: "yourpass"
             },
         });
         const message = {
