@@ -22,10 +22,10 @@ You can install this project using npm. Make sure you have Node.js installed on 
 
 You need the following nodejs modules:
 
-- node i ejs
-- node i express
-- node i nodemailer
-- node i nodemon
+- npm i ejs
+- npm i express
+- npm i nodemailer
+- npm i nodemon
 
 ## Configuration
 
